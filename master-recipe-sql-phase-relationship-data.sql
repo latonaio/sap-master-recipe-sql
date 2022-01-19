@@ -2,6 +2,8 @@ CREATE TABLE `sap_master_recipe_phase_relationship_data`
 (
     `PrdcssrMasterRecipeGroup`      varchar(8) NOT NULL,
     `PrdcssrMasterRecipe`           varchar(2) DEFAULT NULL,
+    `PrdcssrMasterRecipeGroup`      varchar(8) NOT NULL,
+    `PrdcssrMasterRecipe`           varchar(2) DEFAULT NULL,
     `PrdcssrMstrRcpOpInternalID`    varchar(8) DEFAULT NULL,
     `SuccssrMasterRecipeGroup`      varchar(8) DEFAULT NULL,
     `SuccssrMasterRecipe`           varchar(2) DEFAULT NULL,
