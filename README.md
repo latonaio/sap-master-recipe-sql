@@ -1,6 +1,6 @@
 # sap-master-recipe-sql
 
-sap-master-recipe-sql は、主にエッジアプリケーションにおいて、SAP と連携された品目マスタデータを保存する SQL テーブルを作成するためのレポジトリです。  
+sap-master-recipe-sql は、主にエッジアプリケーションにおいて、SAP と連携されたマスタレシピデータを保存する SQL テーブルを作成するためのレポジトリです。  
 sap-master-recipe-sql は、そのままクラウド環境におけるアプリケーションにも、適用可能です。
 
 ## 前提条件
